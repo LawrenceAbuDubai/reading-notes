@@ -8,7 +8,7 @@ https://github.com/LawrenceAbuDubai
 
 ## growth mindset : 
 
-![growth mindset] (https://epe.brightspotcdn.com/dims4/default/f911e77/2147483647/strip/true/crop/2034x1380+28+0/resize/840x570!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2Ffe%2F07%2F623f04754f06aff6f4b323fcedc9%2Fgrowth-mindset-042021-1185654371.jpg)
+![growth mindset](https://epe.brightspotcdn.com/dims4/default/f911e77/2147483647/strip/true/crop/2034x1380+28+0/resize/840x570!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2Ffe%2F07%2F623f04754f06aff6f4b323fcedc9%2Fgrowth-mindset-042021-1185654371.jpg)
 
 
 
