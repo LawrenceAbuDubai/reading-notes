@@ -10,7 +10,7 @@ https://github.com/LawrenceAbuDubai
 
 Name | Link
 ------------ | -------------
-Growth MindSet | [go to](GrowthMindSet)
-read01 | [go to](read01)
+Growth MindSet | [go to](https://lawrenceabudubai.github.io/reading-notes/GrowthMindSet)
+read01 | [go to](https://lawrenceabudubai.github.io/reading-notes/read01)
 
 
