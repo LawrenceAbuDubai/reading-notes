@@ -12,6 +12,6 @@ Name | Link
 ------------ | -------------
 Growth MindSet | [go to](https://lawrenceabudubai.github.io/reading-notes/GrowthMindSet)
 read01 | [go to](https://lawrenceabudubai.github.io/reading-notes/read01)
-GitIntro | [go to](https://lawrenceabudubai.github.io/reading-notes/GitIntro)
+GitIntro | [go to](https://lawrenceabudubai.github.io/reading-notes/gitIntro)
 DVCS | [go to](https://lawrenceabudubai.github.io/reading-notes/VersionControlTypes)
 
