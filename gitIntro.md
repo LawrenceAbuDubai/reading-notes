@@ -2,12 +2,11 @@
 
 ### what is Git?
 
-![git](https://miro.medium.com/max/910/1*Wjxx83j-qyiNvFBy1yOA1w.jpeg)
 
 
 ***Snapshots***
 
-Git is a [DVCS](https://lawrenceabudubai.github.io/reading-notes/VersionControlTypes) that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
 
 ***Local Operations***
 
