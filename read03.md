@@ -1,6 +1,5 @@
 # Wireframe
 
-![wireframe](https://www.plainconcepts.com/wp-content/uploads/2021/01/wireframes-1.jpeg)
 
 ## what is wireframe?
 
