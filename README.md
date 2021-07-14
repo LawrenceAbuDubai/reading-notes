@@ -14,4 +14,4 @@ Growth MindSet | [go to](https://lawrenceabudubai.github.io/reading-notes/Growth
 read01 | [go to](https://lawrenceabudubai.github.io/reading-notes/read01)
 GitIntro | [go to](https://lawrenceabudubai.github.io/reading-notes/gitIntro)
 DVCS | [go to](https://lawrenceabudubai.github.io/reading-notes/VersionControlTypes)
-
+read03 | [go to](https://lawrenceabudubai.github.io/reading-notes/read03)
