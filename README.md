@@ -16,5 +16,6 @@ GitIntro | [go to](https://lawrenceabudubai.github.io/reading-notes/gitIntro)
 DVCS | [go to](https://lawrenceabudubai.github.io/reading-notes/VersionControlTypes)
 read03 | [go to](https://lawrenceabudubai.github.io/reading-notes/read03)
 read04 | [go to](https://lawrenceabudubai.github.io/reading-notes/read04)
+read05 | [go to](https://lawrenceabudubai.github.io/reading-notes/read05)
 read06 | [go to](https://lawrenceabudubai.github.io/reading-notes/read06)
 
